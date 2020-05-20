@@ -32,7 +32,7 @@ ESP8266WebServer server(80);
 ESP8266HTTPUpdateServer httpUpdateServer;
 
 const char* ssid = "11235813";
-const char* password = "JoLuLuSt$48";
+const char* password = "password";
 IPAddress staticIP(192,168,2,90);
 IPAddress gateway(192,168,2,1);
 IPAddress subnet(255,255,255,0);
